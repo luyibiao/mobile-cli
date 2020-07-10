@@ -1,0 +1,38 @@
+@import "./variable.scss";
+@import "./mixin.scss";
+
+// cell-字体样式
+.title-class {
+  color: #000;
+  font-size: 15px;
+  font-weight: bold;
+}
+.value-class {
+  color:#000;
+  font-size: 0.4667rem;
+}
+.label-class {
+  font-size: 12px;
+  color: #969696;
+  font-size: 500;
+}
+.van-field--disabled .van-field__control {
+  color: #606060;
+}
+.van-field__control:disabled {
+  color: #606060;
+}
+.van-cell{
+  padding: 0.3333rem 0.5rem;
+}
+
+.van-cell__right-icon {
+  color: #C6C6C6;
+  font-size: 12px;
+}
+
+// .item-container-common {
+//   .van-list__finished-text {
+//     line-height: 108px;
+//   }
+// }

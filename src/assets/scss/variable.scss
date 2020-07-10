@@ -1,0 +1,179 @@
+
+
+// 主色调
+$main-white: #FFF;
+$main-black: #000;
+$main-primary: #3574F7;
+$main-gray: #999;
+$main-secondary-primary: #4B82F1;
+$main-success: #ED6347;
+$main-warning: #FFFAEB;
+$main-danger: #ED6347;
+$main-yellow: #FD7B4A;
+$main-info: #ECF6FD;
+$main-disable: #A5AAC7;
+$main-pad: .5rem;
+$main-basic: #FD7B4A;
+//常规边框色
+$normal-border:#ebedf0;
+$normal-border-index:#E3E1EA;
+//常规背景色
+$bg-normal:#fff;
+$bg-warning: #FFF7D8;
+$bg-pop:#F4FAFF;
+$bg-main: #f7f7f7;
+/*
+  文字
+*/
+//尺寸
+$fs-22: 22px;
+$fs-21: 21px;
+$fs-20: 20px;
+$fs-19: 19px;
+$fs-18: 18px;
+$fs-17: 17px;
+$fs-16: 16px;
+$fs-15: 15px;
+$fs-14: 14px;
+$fs-13: 13px;
+$fs-12: 12px;
+$fs-11: 11px;
+$fs-10: 10px;
+$fs-8: 8px;
+//颜色
+$fc-normal: #000;
+$fc-3: #333;
+$fc-6: #666;
+$fc-9: #999;
+$fc-disable: #A5AAC7;
+// 朴素图标颜色
+$plain-icon: #A9ADC9;
+/*
+  按钮
+*/
+//圆角
+$btn-radius: 4px;
+//颜色
+$btn-default: #FFF;
+//蓝色按钮
+$btn-primary: #409eff;
+$btn-primary-hover: #66b1ff;
+$btn-primary-active: #3a8ee6;
+$btn-primary-border: #409eff;
+$btn-primary-hover-border: #66b1ff;
+$btn-primary-active-border: #3a8ee6;
+//副一级蓝色按钮
+$btn-primary-secondary: #E9F0FD;
+$btn-primary-secondary-hover: #749DF3;
+$btn-primary-secondary-active: #4B82F1;
+$btn-primary-secondary-border: #749DF3;
+$btn-primary-secondary-hover-border: #749DF3;
+$btn-primary-secondary-active-border: #4B82F1;
+//红色按钮
+$btn-danger: #FFF1F1;
+$btn-danger-hover: #FF8D8D;
+$btn-danger-active: #F16969;
+$btn-danger-border: #FFD7D7;
+$btn-danger-hover-border: #FF8D8D;
+$btn-danger-active-border: #F16969;
+//导入按钮
+$btn-import: #EEFBFF;
+$btn-import-border: #C7F1FF;
+$btn-import-hover: #72D2F1;
+$btn-import-border-hover: #72D2F1;
+$btn-import-active: #4FBADC;
+$btn-import-border-active: #4FBADC;
+//导出按钮
+$btn-export: #EFF7FF;
+$btn-export-border: #CCE3FE;
+$btn-export-hover: #77B5FE;
+$btn-export-border-hover: #77B5FE;
+$btn-export-active: #4F91DE;
+$btn-export-border-active: #4F91DE;
+//素色按钮
+$btn-plain: #fff;
+$btn-plain-border: #CDCDCD;
+$btn-plain-hover: #fff;
+$btn-plain-border-hover: #93B3F6;
+$btn-plain-active: #E9F0FD;
+$btn-plain-border-active: #4B82F1;
+
+/*
+标签
+*/
+//朴素
+$tag-plain: #6575F6;
+$tag-plain-bg: #EEF2F7;
+//蓝色
+$tag-primary: #243CFF;
+$tag-primary-bg: #DEE1FF;
+//红色
+$tag-danger: #F16969;
+$tag-danger-bg: #FFE2E2;
+//橙色
+$tag-warning: #C47A00;
+$tag-warning-bg: #FFF3E0;
+//紫色
+$tag-purple: #A839CA;
+$tag-purple-bg: #F5D6FF;
+
+
+/*
+列表
+*/
+//列表hover背景色
+$list-hover-bg: #E7EEF7;
+$list-active-bg: #D9E5F5;
+
+/*
+  输入框
+*/ 
+//输入框边框
+$input-fc: #e4e4e4;
+$input-border: #DDDDDD;
+$input-border-active: #6772E4;
+//不允许输入时
+$input-close-border: #DDDDDD;
+$input-close-bg: #F8F8F8;
+
+/*
+  布局
+*/ 
+//块级圆角
+$content-radius: 8px;
+//块级边框
+$lump-border: #EBEBEB;
+//块级背景色
+$lump-bg: #F7F8FE;
+//行级背景色
+$inline-bg: #F9FBFC;
+//块级头部条背景色
+$lump-topbar-bg: #f2f2f2;
+//行内边框
+$inline-border: #EBEBEB;
+
+//盒子阴影
+$shadow:0px 1px 18px 0px rgba(74,144,226,0.3);
+
+/*
+  其它
+*/
+//poup选择框选择结构的头部背景色
+$poup-head-bg: #F5F7FA;
+
+//login背景颜色
+$main-bg:#4353ae;
+$text-color: #3673ff;
+
+//复选框边框 背景颜色
+$checkBox-active:#6575F6;
+$checkBox:#c4cad7;
+$checkBox-disabled:#c0c4cc;
+$checkBox-disabled-hover-border:#dcdfe6;
+$checkBox-disabled-bg:#edf2fc;
+//密码强度 背景颜色
+$pwdBg-1: #f5786b;
+$pwdBg-2: #f2c426;
+$pwdBg-3: #26be60;
+$bg: #d9e1f1;
+
